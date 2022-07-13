@@ -4,5 +4,6 @@ public class Map {
 
 	public static void main(String[] args) {
 		System.out.println("My map");
+		System.out.println("Our map");
 	}
 }
